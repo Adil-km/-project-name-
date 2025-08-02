@@ -10,7 +10,7 @@
 
 ### Team Members
 - Member 2: Adil km - Farook College, Calicut
-- Member 3: [Name] - [College]
+- Member 3: shamil k - farook college, calicut
 
 ### Project Description
 [2-3 lines about what your project does]
