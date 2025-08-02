@@ -9,7 +9,7 @@
 
 
 ### Team Members
-- Member 2: Adil km - Farook College Calicut
+- Member 2: Adil km - Farook College, Calicut
 - Member 3: [Name] - [College]
 
 ### Project Description
