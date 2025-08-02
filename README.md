@@ -5,12 +5,11 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Coconut
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 2: Adil km - Farook College Calicut
 - Member 3: [Name] - [College]
 
 ### Project Description
@@ -86,11 +85,6 @@ For Hardware:
 
 # Additional Demos
 [Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
